@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(207, 150, 80);
+    border: 10%;
+
+}
+
+#maq1{
+    background-color: rgb(61, 63, 66);
+    border: 10px; color: rgb(5, 5, 238);
+    text-align: center;
+}
+
+#maq2{
+    background-color: rgb(136, 137, 139);
+    border: 10px; color:blue;
+    text-align: center;
+}
+
+#maq3{
+    background-color: rgb(214, 236, 116);
+    border: 10px; color:blue;
+    text-align: center;
+
+}
+
+#maq4{
+    background-color: rgb(99, 223, 61);
+    border: 10px; color: rgb(36, 61, 204);
+    text-align: center;
+}

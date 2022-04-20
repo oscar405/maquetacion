@@ -1,0 +1,45 @@
+body{
+    background-color: chartreuse;
+    margin-top: 50px;
+}
+header{
+    background-color:brown;
+    border: 5px;
+    text-align: center;
+}
+#cristiano{
+    background-color: rgb(176, 222, 184);
+    border: 5px; color: rgb(48, 50, 53);
+    text-align: center;
+    height: 150px;
+}
+
+#embapee{
+    background-color: rgb(77, 236, 236);
+    border: 5px; color: rgb(174, 236, 57);
+    text-align: center;
+    height: 150px;
+}
+
+#neymar{
+    background-color: rgb(59, 59, 44);
+    border: 5px; color:rgb(17, 17, 250);
+    text-align: center;
+    height: 150px;
+
+}
+
+#ronaldo{
+    background-color: rgb(132, 180, 162);
+    border: 5px; color: rgb(18, 18, 19);
+    text-align: center;
+    height: 300px;
+
+}
+
+#footer{
+    background-color: deepskyblue;
+    color:ghostwhite;
+    text-align: center;
+    height: 100px;
+}

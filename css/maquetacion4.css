@@ -1,0 +1,42 @@
+body{
+    background-color: darkseagreen;
+}
+header{
+    background-color: rgb(229, 233, 12);
+    border: 1px; color: darkmagenta;
+    text-align: center;
+}
+
+#publico{
+    background-color: rgb(82, 35, 13);
+    border: 2px; 
+    color: rgb(140, 0, 255);
+    text-align: center;
+ 
+}
+#contenido{
+    background-color: rgb(233, 48, 16);
+    height: 52px; 
+    color: rgb(146, 202, 202);
+    text-align: center;
+}
+
+#cubo{
+    background-color:rgb(219, 191, 67);
+    border: 1px; color:rgb(153, 45, 45);
+    text-align: center;
+}
+
+#final{
+    background-color:chocolate;
+    border: 1px; color: rgb(105, 134, 197);
+    text-align: center;
+}
+#shooter{
+    background-color: blue;
+    color: black;
+}
+#shooter1{
+    background-color: aqua;
+    color: cadetblue;
+}
